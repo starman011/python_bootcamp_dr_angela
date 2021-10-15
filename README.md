@@ -1,2 +1,2 @@
-# python_bootcamp-Dr_Angela-
+# python_bootcamp by DR ANGELA
 Contains my work and projects done during bootcamp
